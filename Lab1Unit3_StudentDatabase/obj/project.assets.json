@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xando\\source\\repos\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase.csproj",
+      "projectUniqueName": "C:\\Repositories\\Unit3Lab1_StudentDatabase\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase.csproj",
       "projectName": "Lab1Unit3_StudentDatabase",
-      "projectPath": "C:\\Users\\xando\\source\\repos\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase.csproj",
+      "projectPath": "C:\\Repositories\\Unit3Lab1_StudentDatabase\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase.csproj",
       "packagesPath": "C:\\Users\\xando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xando\\source\\repos\\Lab1Unit3_StudentDatabase\\Lab1Unit3_StudentDatabase\\obj\\",
+      "outputPath": "C:\\Repositories\\Unit3Lab1_StudentDatabase\\Lab1Unit3_StudentDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

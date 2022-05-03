@@ -37,16 +37,10 @@ while (runningProgram)
     bool isANumber = int.TryParse(userEntry, out int userNumber);
     if (isANumber)
     {
-        if (userNumber >= 1 && userNumber <= 6)
+        if (userNumber <= names.Count() && userNumber > 0)
         {
             PauseAndClearScreen();
-            Console.Write($"Student #{userNumber} is ");
-            Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.Write($"{names[userNumber-1]}");
-            Console.ResetColor();
-            Console.Write(".");
-            Console.WriteLine();
-            Console.WriteLine();
+            PrintStudentName(names, userNumber);
 
             bool displayingInformation = true;
             while (displayingInformation)
@@ -154,5 +148,15 @@ static void DisplayFavoriteFood(string[] names, int userNumber, string[] favorit
     Console.Write($"{favoriteFoods[userNumber - 1]}");
     Console.ResetColor();
     Console.Write(".");
+    Console.WriteLine();
+}
+static void PrintStudentName(string[] names, int userNumber)
+{
+    Console.Write($"Student #{userNumber} is ");
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.Write($"{names[userNumber - 1]}");
+    Console.ResetColor();
+    Console.Write(".");
+    Console.WriteLine();
     Console.WriteLine();
 }
