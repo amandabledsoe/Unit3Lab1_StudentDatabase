@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\bin\Debug\net6.0\Lab1Unit3_StudentDatabase.exe
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\bin\Debug\net6.0\Lab1Unit3_StudentDatabase.deps.json
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\bin\Debug\net6.0\Lab1Unit3_StudentDatabase.runtimeconfig.json
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\bin\Debug\net6.0\Lab1Unit3_StudentDatabase.dll
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\bin\Debug\net6.0\Lab1Unit3_StudentDatabase.pdb
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.AssemblyInfo.cs
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.dll
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\refint\Lab1Unit3_StudentDatabase.dll
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.pdb
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\Lab1Unit3_StudentDatabase.genruntimeconfig.cache
+C:\Users\xando\source\repos\Lab1Unit3_StudentDatabase\Lab1Unit3_StudentDatabase\obj\Debug\net6.0\ref\Lab1Unit3_StudentDatabase.dll
